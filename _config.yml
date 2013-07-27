@@ -5,7 +5,7 @@ logo:             site-logo.png
 disqus_shortname: newfangledme
 comments:         true
 #Comment out url when working locally to resolve base urls correctly
-#url:              http://your-website.com
+url:              http://newfangled.me
 markdown: redcarpet
 pygments: true
 timezone: Europe/London
