@@ -7,7 +7,8 @@ slug: perception
 title: Perception - Short Film
 wordpress_id: 640
 categories:
-- Film
+- filmmaking
+- projects
 ---
 
 I have finally, finally, got round to finishing an old project that started way back in May 2012. It's my latest short film and I hope you enjoy it.

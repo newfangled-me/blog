@@ -7,8 +7,8 @@ slug: microsoft
 title: Why I Hate Microsoft
 wordpress_id: 296
 categories:
-- Rants
-- Stuff
+- microsoft
+- rants
 ---
 
 {% image microsoft-sign.jpg %}

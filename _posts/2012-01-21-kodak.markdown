@@ -6,9 +6,8 @@ layout: post
 slug: kodak
 title: The End of Kodak
 wordpress_id: 366
-categories:
-- Film
-- Photography
+tags:
+- photography
 ---
 
 I was sad to hear that Kodak has recently gone bankrupt. I was sad for several reasons, but mainly as I see Kodak as being one of the main symbols of film (or _analogue_) photography.

@@ -6,8 +6,9 @@ layout: post
 slug: lion
 title: OS X Lion
 wordpress_id: 33
-categories:
-- Stuff
+tags:
+- apple
+- os x
 ---
 
 Hello All

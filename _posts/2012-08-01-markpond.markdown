@@ -10,6 +10,7 @@ categories:
 - Programming
 tags:
 - markpond
+- projects 
 ---
 
 [Here it is.](http://blog.markpond.com/post/28485004763/beginning)

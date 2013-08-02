@@ -6,8 +6,9 @@ layout: post
 slug: remix
 title: Remix
 wordpress_id: 409
-categories:
-- Stuff
+tags:
+- essay
+- remix
 ---
 
 > _remix (**v**) - Produce a different version of (a musical recording) by altering the balance of the separate tracks_

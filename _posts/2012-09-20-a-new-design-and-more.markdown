@@ -12,6 +12,7 @@ tags:
 - github
 - little printer
 - markpond
+- projects
 ---
 
 I haven't blogged in quite a while, mainly because I've been so busy. But here I am again, and I thought it was time for a new design.

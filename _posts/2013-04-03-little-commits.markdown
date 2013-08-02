@@ -7,7 +7,9 @@ slug: little-commits
 title: little-commits
 wordpress_id: 699
 categories:
-- Programming
+- programming
+- github
+- projects
 ---
 
 While rewriting Markpond, I thought it would be pretty cool if there was some way to track my progress through my roadmap of post-it notes. And so I took inspiration from one of the projects at the [Little Printer Hack Day 2](http://bergcloud.com/2013/03/05/berg-cloud-hack-day-number-two/), [GitHub Yesterday](http://www.flickr.com/photos/alicebartlett/8528501770/in/pool-littleprinter) by [Martyn Loughran](https://github.com/mloughran) and I looked into how I could make something using the Little Printer's direct print API.

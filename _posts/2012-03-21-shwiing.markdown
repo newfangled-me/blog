@@ -6,6 +6,9 @@ layout: post
 slug: shwiing
 title: Shwiing
 wordpress_id: 420
+tags:
+- internet
+- project
 ---
 
 {% image shwiing.png %}

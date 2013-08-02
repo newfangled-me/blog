@@ -6,9 +6,8 @@ layout: post
 slug: canon-c300-red-scarlet
 title: Canon C300, Red Scarlet and some more thoughts
 wordpress_id: 221
-categories:
-- Film
-- Reviews
+tags:
+- filmmaking
 ---
 
 So. So, so so. Canon announced the C300 and ... I'm assuming you know what that is. Let me explain further.

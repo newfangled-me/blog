@@ -6,9 +6,8 @@ layout: post
 slug: mystuff
 title: Links to My Stuff
 wordpress_id: 19
-categories:
-- General and Stuff
-- Stuff
+tags:
+- housekeeping
 ---
 
 Hello All.

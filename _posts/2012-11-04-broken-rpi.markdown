@@ -7,8 +7,8 @@ slug: broken-rpi
 title: Quite enough Raspberry Pi for One Day
 wordpress_id: 556
 categories:
-- Programming
-- Rants
+- raspberry pi
+- essays
 ---
 
 As you may know I started a website that runs from two Raspberry Pis. Today, it is my sad duty to tell you that it now only runs from one Raspberry Pi.

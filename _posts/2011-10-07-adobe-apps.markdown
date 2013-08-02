@@ -6,9 +6,8 @@ layout: post
 slug: adobe-apps
 title: Adobe touches on Apps
 wordpress_id: 128
-categories:
-- Film
-- Stuff
+tags:
+- adobe
 ---
 
 {% image adobe-touch.jpg %}

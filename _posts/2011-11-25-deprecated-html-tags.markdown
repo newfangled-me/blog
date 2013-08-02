@@ -6,10 +6,9 @@ layout: post
 slug: deprecated-html-tags
 title: Deprecated HTML Tags
 wordpress_id: 237
-categories:
-- Programming
-- Rants
-- Stuff
+tags:
+- programming
+- web design
 ---
 
 > _Separating content and styling is very powerful_

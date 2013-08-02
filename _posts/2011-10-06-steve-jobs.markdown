@@ -6,9 +6,8 @@ layout: post
 slug: steve-jobs
 title: Remembering Steve Jobs
 wordpress_id: 115
-categories:
-- Film
-- Stuff
+tags:
+- apple
 ---
 
 {% image steve-jobs.jpg %}

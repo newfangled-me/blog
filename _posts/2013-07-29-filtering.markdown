@@ -5,8 +5,6 @@ date: 2013-07-31 10:08:55+01:00
 layout: post
 slug: filtering
 title: A Word on Filtering
-categories:
-- Commentary
 tags:
 - censorship
 - uk

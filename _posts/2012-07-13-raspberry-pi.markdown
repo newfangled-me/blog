@@ -7,8 +7,8 @@ slug: raspberry-pi
 title: Making the Raspberry Pi Useful, Internship at Firefly and Big Post-It Notes
 wordpress_id: 499
 categories:
-- DIY
-- Programming
+- firefly
+- raspberry pi
 ---
 
 {% image big-post-its.jpg %}

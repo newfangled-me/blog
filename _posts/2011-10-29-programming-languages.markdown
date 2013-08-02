@@ -10,12 +10,7 @@ categories:
 - Programming
 tags:
 - css
-- html
-- internet
-- javascript
-- jquery
-- language
-- php
+- web design
 - programming
 ---
 

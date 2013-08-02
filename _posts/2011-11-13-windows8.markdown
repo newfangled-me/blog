@@ -6,8 +6,8 @@ layout: post
 slug: windows8
 title: Windows 8 Hands-on Review
 wordpress_id: 204
-categories:
-- Reviews
+tags:
+- windows
 ---
 
 First of all, I will start with my general opinion of where Windows, and Microsoft, seem to be going. Unfortunately, they seem to be deliberately moving away from Apple and OS X... trying to be different in their own 'special' kind of way. I think this was a fundamental mistake. It's not that I do not like Microsoft products, I think that Windows 7 was one of the best operating systems in the world in terms of performance - not necessarily looks - but definitely performance. But I was (not very) recently, after installing [OS X Lion](http://filmandstuff.co.uk/33-lion), struck by how well it just worked. And it does look better than Windows.

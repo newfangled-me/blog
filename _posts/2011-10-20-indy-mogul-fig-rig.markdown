@@ -6,15 +6,9 @@ layout: post
 slug: indy-mogul-fig-rig
 title: DIY Fig Rig
 wordpress_id: 162
-categories:
-- DIY
-- Film
 tags:
 - diy
-- fig rig
-- indy mogul
-- rig
-- screwfix
+- filmmaking
 ---
 
 Some of you may know that I love to build things, especially camera gear which would otherwise cost thousands of pounds. The professional Fig Rig is made my Manfrotto, and [you can buy it here](http://www.amazon.co.uk/Manfrotto-595B-Fig-Rig/dp/B000LRFURU/ref=sr_1_1?s=electronics&ie=UTF8&qid=1319129001&sr=1-1) if you really want to, although considering how simple the design is, I can't figure out why this is so expensive other than the fact that it has a Manfrotto sticker on it.

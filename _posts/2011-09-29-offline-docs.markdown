@@ -6,24 +6,10 @@ layout: post
 slug: offline-docs
 title: Google Docs has it's only disadvantage removed
 wordpress_id: 109
-categories:
-- Stuff
 tags:
-- access
-- anytime
-- anywhere
 - chrome
-- connection
-- docs
-- feature
-- files
 - google
 - internet
-- needed
-- new
-- 'no'
-- offline
-- your
 ---
 
 Recently, Google created a function on Google Docs that basically gets rid of any competition. Many people thought that the disadvantage with Google Docs is that you can only access your files when you are browsing them online. But no anymore... pause for effect. Google has made a new Google Chrome Docs App, which allows you to view your files (yes view, not change) that are stored on the Google server even when you are not connected to the internet. This is a slightly befuddling concept, and this is how Google explains it:

@@ -6,13 +6,9 @@ layout: post
 slug: i-have-a-bad-feeling
 title: I have a bad feeling
 wordpress_id: 448
-categories:
-- Stuff
-- Web
 tags:
 - facebook
-- Instagram
-- web
+- instagram
 ---
 
 I have to say - I have a bad feeling like this. Today, Facebook announced they are going to buy Instagram, my favourite app, for a sum total of $1,000,000,000 dollars (note my use of the American billion there), in a combination of cash and stock in Facebook itself.

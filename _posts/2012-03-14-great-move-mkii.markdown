@@ -6,6 +6,8 @@ layout: post
 slug: great-move-mkii
 title: The Great Move MkII
 wordpress_id: 405
+tags:
+- housekeeping
 ---
 
 Well, we're moving again. Oh, and I'm also going to re-design this again. I will outline the how and the why of both those things.

@@ -7,8 +7,8 @@ slug: diy-dslr-cage-matte-box-rail-system
 title: DIY DSLR Cage, Matte Box and Rail System for £25
 wordpress_id: 334
 categories:
-- DIY
-- Film
+- diy
+- filmmaking
 ---
 
 Hello, peoples of teh internets. I have made an awesome (I say so myself) DIY DSLR Cage and 15mm Rail System. Now, if you're a n00b at cameras, a brief explanation of what these things are.

@@ -6,8 +6,8 @@ layout: post
 slug: chromebook
 title: Is Chromebook a Good Idea?
 wordpress_id: 25
-categories:
-- Stuff
+tags:
+- google
 ---
 
 Hello All,

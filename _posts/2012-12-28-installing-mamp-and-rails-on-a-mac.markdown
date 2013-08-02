@@ -6,6 +6,9 @@ layout: post
 slug: installing-mamp-and-rails-on-a-mac
 title: Installing MAMP and Rails on a Mac
 wordpress_id: 619
+tags:
+- tutorials
+- programming
 ---
 
 Now that I have a Mac laptop, I thought that I'd go about setting everything up that I'd need to code in my favourite programming languages - PHP and Rails.

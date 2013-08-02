@@ -8,6 +8,7 @@ title: 'Markpond: Why'
 wordpress_id: 705
 tags:
 - markpond
+- essays
 ---
 
 As some of you may know, I made [Markpond](https://markpond.com), a bookmarking website. I'm not going to lie, it's similar to Pinboard. But I made Markpond as a challenge for myself.

@@ -6,13 +6,10 @@ layout: post
 slug: tfl
 title: 'Transport for London: Timelapse'
 wordpress_id: 459
-categories:
-- Film
-- Photography
-- Timelapse
 tags:
 - london
 - timelapse
+- projects
 ---
 
 First of all, it's timelapse, not time-lapse or time lapse. I don't care about your opinion of this matter. And with that, I can move on.

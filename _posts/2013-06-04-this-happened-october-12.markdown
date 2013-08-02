@@ -6,8 +6,6 @@ layout: post
 slug: this-happened-october-12
 title: This Happened October 2012 Talks
 wordpress_id: 730
-categories:
-- Film
 tags:
 - this happened
 ---

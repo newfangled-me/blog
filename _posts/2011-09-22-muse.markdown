@@ -6,8 +6,9 @@ layout: post
 slug: muse
 title: Musings about Muse
 wordpress_id: 57
-categories:
-- Stuff
+tags:
+- adobe
+- web design
 ---
 
 So Adobe Muse has been hitting the "headlines" of blogs all over the world, but as far as I can see it has never once appeared in a real newspaper here in the UK. This is strange, as it could be the turning point on the retail of all Adobe products, used by millions of people worldwide.

@@ -6,6 +6,8 @@ layout: post
 slug: this-happened-1
 title: 'This Happened #12 Videos Online'
 wordpress_id: 546
+tags:
+- this happened
 ---
 
 I probably should have written about this before, but I guess I'm disorganised like that.

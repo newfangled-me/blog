@@ -6,6 +6,8 @@ layout: post
 slug: mac
 title: Install OS X Snow Leopard on Windows 7 Using VMWare
 wordpress_id: 101
+tags:
+- os x x86
 ---
 
 OK. I have tried for weeks to get a Hackintosh working, using many methods, and because my computer has an AMD Phenom II processor it is even harder, because OS X was never designed to work with AMD. I eventually gave up trying to install this natively on my computer, so I turned to virtual

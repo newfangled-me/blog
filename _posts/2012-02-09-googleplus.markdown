@@ -6,6 +6,8 @@ layout: post
 slug: googleplus
 title: Why Google Plus is called Google Plus
 wordpress_id: 384
+tags:
+- google
 ---
 
 Just a quick post - I have a meatier one coming soon, but I'm preparing for a film shoot tomorrow.

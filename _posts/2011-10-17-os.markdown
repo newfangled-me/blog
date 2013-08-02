@@ -6,6 +6,8 @@ layout: post
 slug: os
 title: Some more OSx86
 wordpress_id: 142
+tags:
+- os x x86
 ---
 
 OK, OK. I gave up the first time. But now I have the time, I'm gonna give iAtkos a go. I gave up with the Lion, and now I have even given up with Snow Leopard, so I am resorting to Leopard. This might work. MIGHT.

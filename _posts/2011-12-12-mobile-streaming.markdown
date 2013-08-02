@@ -6,6 +6,8 @@ layout: post
 slug: mobile-streaming
 title: Mobile Catch-up Streaming and Stuff
 wordpress_id: 271
+tags:
+- bbc
 ---
 
 I lie. I actually do have time today.
@@ -24,6 +26,6 @@ That leaves everyone in the UK (with a phone) being able to access all the major
 
 Goodbye - I have to learn a monologue for Drama (Drama Homework??!?) for the third-last day of term and it's probably going to be an extract from Pygmalion, which we have
 
-recently been studying in English.But whatever, it's cool. Another app in the 'Entertainment' folder on my iPhone.
+recently been studying in English. But whatever, it's cool. Another app in the 'Entertainment' folder on my iPhone.
 
 

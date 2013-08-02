@@ -6,15 +6,10 @@ layout: post
 slug: diy-home-server
 title: Repurpose an Old Computer into a DIY Complete Home Server for Free
 wordpress_id: 475
-categories:
-- DIY
-- Fixes
-- Programming
-- Stuff
 tags:
 - diy
-- home
-- server
+- servers
+- projects
 ---
 
 It's a while since I've had an utter geek-out, and I thought it's about time for another.

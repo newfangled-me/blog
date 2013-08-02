@@ -6,8 +6,8 @@ layout: post
 slug: editing-programs
 title: Editing Programs and the Arguments they Bring (and FCP X)
 wordpress_id: 47
-categories:
-- Film
+tags:
+- filmmaking
 ---
 
 Hello All,

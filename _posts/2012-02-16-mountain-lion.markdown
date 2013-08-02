@@ -6,6 +6,8 @@ layout: post
 slug: mountain-lion
 title: Mountain Lion
 wordpress_id: 391
+tags:
+- apple
 ---
 
 {% image mountain-lion.jpg %}

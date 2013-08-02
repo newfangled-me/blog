@@ -6,9 +6,9 @@ layout: post
 slug: the-tools-of-markpond
 title: The Tools of Markpond
 wordpress_id: 536
-categories:
-- Programming
 tags:
+- programming
+- internet
 - markpond
 ---
 

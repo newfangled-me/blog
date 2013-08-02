@@ -6,8 +6,7 @@ layout: post
 slug: christmas-and-stuff
 title: Christmas and Stuff
 wordpress_id: 327
-categories:
-- Stuff
+
 ---
 
 I'd just like to say Merry Christmas to everybody excluding non-Christians to whom I say the awfully American "happy holidays". And Happy New Year to everyone.

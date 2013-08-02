@@ -9,13 +9,7 @@ wordpress_id: 213
 categories:
 - Stuff
 tags:
-- change
-- computer
-- connection
 - internet
-- pace
-- revolution
-- speed
 ---
 
 There is some interesting stuff in [this article](http://matt.me63.com/2011/09/16/the-pace-of-change/), and I have been set the task of commenting on it for homework.

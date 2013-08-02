@@ -6,11 +6,10 @@ layout: post
 slug: little-printing
 title: Little Printing
 wordpress_id: 521
-categories:
-- Programming
-- Web
 tags:
 - little printer
+- programming
+- projects
 ---
 
 On Wednesday, I went to the first of [BERG](http://berglondon.com)'s Little Printer [After School](http://bergcloud.com/2012/09/27/school-report/) Clubs, or as Alice put it:

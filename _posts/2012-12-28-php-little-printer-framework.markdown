@@ -6,8 +6,9 @@ layout: post
 slug: php-little-printer-framework
 title: PHP Little Printer Framework
 wordpress_id: 614
-categories:
-- Programming
+tags:
+- little printer
+- github
 ---
 
 It's what it says on the tin, really - a framework to make making Little Printer publications faster and easier in PHP.

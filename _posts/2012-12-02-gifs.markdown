@@ -6,8 +6,6 @@ layout: post
 slug: gifs
 title: GIFs
 wordpress_id: 606
-categories:
-- Web
 tags:
 - dropbox
 - gifs

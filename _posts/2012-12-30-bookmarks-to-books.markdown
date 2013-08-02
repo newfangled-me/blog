@@ -7,8 +7,8 @@ slug: bookmarks-to-books
 title: Making Books from Pinboard or Markpond Bookmarks
 wordpress_id: 629
 categories:
-- DIY
-- Programming
+- diy
+- programming
 ---
 
 After learning Ruby, I recently re-discovered Tom Armitage's [pinboard-bookmachine](http://github.com/infovore/pinboard-bookmachine). This is a how-to on making books from your bookmarks, separated by year. I've always liked physical things - I used to love and still do my LEGO and K'NEX collections, and there's nothing better than being able to touch a thing and say "I made that".

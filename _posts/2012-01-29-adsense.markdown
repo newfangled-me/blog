@@ -6,9 +6,6 @@ layout: post
 slug: adsense
 title: Oh dear, AdSense.
 wordpress_id: 373
-categories:
-- Rants
-- Stuff
 tags:
 - google
 - rants

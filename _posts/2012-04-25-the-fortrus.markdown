@@ -6,8 +6,8 @@ layout: post
 slug: the-fortrus
 title: The Fortrus
 wordpress_id: 457
-categories:
-- Web
+tags:
+- projects
 ---
 
 I have started another thing. Whoops.

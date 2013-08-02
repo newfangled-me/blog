@@ -6,8 +6,6 @@ layout: post
 slug: quick-update
 title: Quick Update
 wordpress_id: 270
-categories:
-- General and Stuff
 ---
 
 Sorry for the lack of blogging recently - I have been extremely busy over the last few weeks. If you're interested, here's a list of stuff I've done:

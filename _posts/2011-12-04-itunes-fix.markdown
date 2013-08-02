@@ -6,9 +6,9 @@ layout: post
 slug: itunes-fix
 title: iTunes Store Blank on Windows 7 - Fix
 wordpress_id: 252
-categories:
-- Fixes
-- Stuff
+tags:
+- apple
+- fixes
 ---
 
 I usually don't post on this kind of thing, but I felt compelled as I spent about a month or so trying to fix this damn problem.

@@ -6,6 +6,9 @@ layout: post
 slug: knex-roller-coaster
 title: K'NEX Roller Coaster
 wordpress_id: 439
+tags:
+- knex
+- projects
 ---
 
 Just recently I returned to an old hobby of mine: building moving structures out of K'NEX, after realising how much they could be enhanced by a little knowledge of programming and the use of a microcontroller (in my case my Arduino Uno).

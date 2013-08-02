@@ -6,6 +6,8 @@ layout: post
 slug: google
 title: What Happens when Google Goes Wrong
 wordpress_id: 91
+tags:
+- google
 ---
 
 Just a quick post - I thought this might amuse some -

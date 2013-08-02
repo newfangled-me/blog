@@ -6,21 +6,8 @@ layout: post
 slug: lowepro-flipside-300-review
 title: Lowepro Flipside 300 Review
 wordpress_id: 149
-categories:
-- Film
-- Reviews
 tags:
-- '300'
-- canon
-- eos 300
-- flipside
-- flipside 300
-- gorillapod
-- high-quality
-- lowepro
-- lowepro flipside
-- sigma
-- tripod
+- photography
 ---
 
 {% image flipside-1.jpg %}

@@ -6,26 +6,11 @@ layout: post
 slug: lens-review
 title: A Lens Review
 wordpress_id: 136
-categories:
-- Film
+
 tags:
-- 70-300
-- apo
-- canon
-- dg
-- lens
-- macro
-- mm
-- nikkor
-- nikon
-- os
-- pentax
-- red
-- review
-- ring
 - sigma
-- tamron
-- telephoto
+- filmmaking
+- photography
 ---
 
 Now for the first post about what this blog was originally intended for - a review of something relevant to filmmaking!

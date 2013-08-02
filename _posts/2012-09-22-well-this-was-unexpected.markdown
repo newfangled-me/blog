@@ -6,11 +6,8 @@ layout: post
 slug: well-this-was-unexpected
 title: Well this was unexpected
 wordpress_id: 516
-categories:
-- Web
 tags:
 - apple
-- icloud
 ---
 
 I don't usually blog about small things - but since I updated iCloud control panel in Windows this has popped up:

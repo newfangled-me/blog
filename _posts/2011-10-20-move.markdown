@@ -6,19 +6,8 @@ layout: post
 slug: move
 title: After the Move
 wordpress_id: 156
-categories:
-- General and Stuff
 tags:
-- 000webhost
-- finished
-- free
-- hosting
-- moved
-- moving
-- org
-- web
-- wordpress
-- x10hosting
+- housekeeping
 ---
 
 To anybody who was following me before the switch to our own domain, I have had some problems but they are all cleared up now.

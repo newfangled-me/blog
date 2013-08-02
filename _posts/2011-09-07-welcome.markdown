@@ -6,9 +6,8 @@ layout: post
 slug: welcome
 title: Welcome
 wordpress_id: 380
-categories:
-- General and Stuff
-- Stuff
+tags:
+- housekeeping
 ---
 
 Welcome to this new and amazing blog about - you guessed it - film and stuff. I'll be keeping you up to date with all things to do with making films, watching films, and other life-ish stuff. Have fun and don't hold it against me if I rant. I tend to do that when I get overexcited and angry at the same time.
