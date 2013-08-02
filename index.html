@@ -10,3 +10,7 @@ tags: [Jekyll, theme, themes, responsive, blog, minimalism]
   <li><article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost"><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
 {% endfor %}
 </ul>
+
+<nav class="pagination index">
+	<a href="/articles/" class="btn">View All</a>
+</nav>
