@@ -12,6 +12,8 @@ timezone: Europe/London
 future:   true
 permalink: /:title
 
+google_analytics: UA-28573924-2
+
 owner:
   name:           Alex Forey
   avatar:         http://gravatar.com/avatar/c757293cea100034c52c39bf7603918a?s=150
