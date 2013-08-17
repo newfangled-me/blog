@@ -1,0 +1,28 @@
+---
+author: AlexForey
+comments: true
+date: 2013-08-17 18:53:55+02:00
+layout: post
+slug: packing
+title: Packing Video & Photo Gear for Holidays
+tags:
+- gear
+- filmmaking
+- photography
+---
+
+I'm going on a trip soon on which I will be taking my video, photo and timelapse equipment, and thought I'd share a brief overview of how I pack my stuff to make sure it doesn't get damaged in transit or stopped by airport security.
+
+Firstly, my cameras and lenses go in my Lowepro Flipside 300, along with my rMBP 13". This is small enough to carry on, and that way I have all of the expensive and breakable things with me at all times.
+
+I have a Jessops tripod ball head for photography, and a Manfrotto 502AH fluid head for filmmaking. I tend to take both, as they're not particularly heavy and there's no point having this stuff if you don't use it.
+
+Depending on how much I'm carrying in my camera bag, I might put the ball head in there, or in my suitcase. It's fairly robust and won't be broken if dropped.
+
+My video head on the other hand is what I might call fragile. There are several knobs that protrude from the outside of it that are made of plastic, and are easily broken if not protected properly. I learnt this the hard way on my trip to Nice, where the locking knob for the pan handle snapped clean in half after having been put in the overhead lockers on the aeroplane. Learning from that experience, I take the pan handle and other knobs off the head and put them in my suitcase padded by my clothes to make sure they're not damaged. I then put the head itself on the tripod in my Manfrotto 80cm tripod bag.
+
+If I'm carrying a slider, I either put it in my tripod bag, or put it diagonally inside my suitcase to keep the carrying weight down.
+
+I have a DIY Arduino timelapse motor and belt system for my slider, which I'll go into more detail in a later post. An Arduino looks suspicious through airport security, and so I've found it best to put the Arduino and cables in my carry-on luggage, and the batteries in my checked-in bag. The staff at Terminal 5 had no problem with this, and through a scanner the electronics look like any PCB they've seen before. My suitcase went 'missing' when I had the Arduino in it on the way back from Nice, although this may have just been a coincidence.
+
+So take care of your expensive equipment, and always carry the most valuable and fragile items with you. This may seem like common sense, but I've seen many people put laptops in their suitcases and heard many sob-stories of how that turned out after baggage handling dropped their suitcase 10 meters onto the tarmac.
