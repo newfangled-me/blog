@@ -12,7 +12,7 @@ tags:
 
 I've got some really exciting projects coming up in the next few months in the small cracks in the blocks of time taken up by my GCSEs.
 
-For all of those projects, and for many to come, I'm going to need some (at lest) semi-pro location audio equipment, and I saw some great deals on eBay so I nabbed them.
+For all of those projects, and for many to come, I'm going to need some (at least) semi-pro location audio equipment, and I saw some great deals on eBay so I nabbed them.
 
 Here's a brief overview of what I bought and why:
 
@@ -47,6 +47,8 @@ It is so effective that I can literally point an industrial fan at it and there 
 You might have seen a [Dead Cat](http://www.rodemic.com/accessories/deadcat) before, but that's nothing to the [Dead *Wombat*](http://www.rodemic.com/accessories/deadwombat) that comes with this thing.
 
 This also comes with a 10 year warranty, and I expect it to be a fantastic piece of equipment for working outdoors with the wind cover, and indoors as a shock mount.
+
+I got it from eBay for £130, but I've seen ones go for as low as £100 is you're lucky.
 
 ## Accessories
 
