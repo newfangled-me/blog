@@ -5,6 +5,10 @@ date: 2013-12-28 18:53:55+00:00
 layout: post
 slug: printrbot
 title: Building My First 3D Printer
+image:
+  feature: http://farm4.staticflickr.com/3823/11647025415_d4fe51ceb1_k.jpg
+  credit: Alex Forey
+  creditlink: http://www.flickr.com/photos/alexforey/11647025415/
 tags:
 - 3dprinting
 - hacking
