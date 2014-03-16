@@ -45,6 +45,7 @@ I've been asked many times what I use in terms of hardware and software for phot
 * [Røde
  VideoMic](http://www.amazon.co.uk/gp/product/B00CAE8PM4/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B00CAE8PM4&linkCode=as2&tag=newfme-21)
 * [Tascam DR-40](http://www.amazon.co.uk/gp/product/B005NACC6M/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B005NACC6M&linkCode=as2&tag=newfme-21)
+* DIY Boompole
 
 ## Accessories
 
@@ -61,6 +62,7 @@ I've been asked many times what I use in terms of hardware and software for phot
 * [Komputerbay 64GB 1000x CF Cards](http://www.amazon.co.uk/gp/product/B009JCL55Y/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B009JCL55Y&linkCode=as2&tag=newfme-21) (x2)
 * [SanDisk Extreme 32GB SD Cards](http://www.amazon.co.uk/gp/product/B004Q3C98S/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B004Q3C98S&linkCode=as2&tag=newfme-21) (x2)
 * [SanDisk Extreme 16GB SD Cards](http://www.amazon.co.uk/gp/product/B00422J0CG/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B00422J0CG&linkCode=as2&tag=newfme-21) (x2)
+* [Seagate 320GB 2.5" HDD](http://www.amazon.co.uk/gp/product/B002JIMYHI/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B002JIMYHI&linkCode=as2&tag=newfme-21) (x2)
 
 ### Bags
 
@@ -69,6 +71,7 @@ I've been asked many times what I use in terms of hardware and software for phot
 
 ### Others
 
+* [Atomos Ninja 2](http://cvp.com/index.php?t=product/atomos_ao-atomnja003-retail-version)
 * [Black Rapid RS-4](http://www.amazon.co.uk/gp/product/B0029LDIS4/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B0029LDIS4&linkCode=as2&tag=newfme-21)
 * [Polaroid 82mm Fader ND Filter](http://www.amazon.co.uk/gp/product/B004GZ0U9G/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B004GZ0U9G&linkCode=as2&tag=newfme-21)
 * [Kamerar FF-3 Follow Focus](http://www.kamerar.com/collections/rigs-stabilizer/products/kamerar-ff-1-follow-focus-w-15mm-quick-release-rods-clamp)
