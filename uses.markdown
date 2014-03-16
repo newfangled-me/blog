@@ -64,6 +64,10 @@ I've been asked many times what I use in terms of hardware and software for phot
 * [SanDisk Extreme 16GB SD Cards](http://www.amazon.co.uk/gp/product/B00422J0CG/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B00422J0CG&linkCode=as2&tag=newfme-21) (x2)
 * [Seagate 320GB 2.5" HDD](http://www.amazon.co.uk/gp/product/B002JIMYHI/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B002JIMYHI&linkCode=as2&tag=newfme-21) (x2)
 
+### Hard Cases
+* [Pelican 1510 Alternative](http://www.ebay.co.uk/itm/191071293334?var=490264982861&ssPageName=STRK:MEWNX:IT&_trksid=p3984.m1439.l2649)
+* [Atomos Ninja Case](http://cvp.com/index.php?t=product/atomos_ao-atomcas003)
+
 ### Bags
 
 * [Lowepro Flipside 300](http://www.amazon.co.uk/gp/product/B000YA33DC/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B000YA33DC&linkCode=as2&tag=newfme-21)
