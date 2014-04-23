@@ -4,7 +4,7 @@ comments: true
 date: 2014-04-07 17:53:55+01:00
 layout: post
 slug: typography
-title: The Art of Typograpgy and its Relevance in the Modern World	
+title: The Art of Typography and its Relevance in the Modern World	
 image:
   feature: typography-banner.jpg
   credit: Wikipedia
@@ -15,6 +15,8 @@ tags:
 ---
 
 I wrote this piece last summer as part of my English Language iGCSE coursework. After many months of stress and feverish revisions, I submitted it along with a Literature essay and various other small bits and pieces to the exam board, AQA, last Monday. Having done that, I'm free to publish it - and as a few of you have expressed interest, I thought I might as well do so. You better appreciate the styling, becuase I had to write out all the `<span>` elements you can see in the source by hand to get it looking like my Pages document.
+
+Note: the previous typo in the title was not part of the submitted coursework.
 
 ---
 
