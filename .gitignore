@@ -1,2 +1,3 @@
 _site
-.tweet_cache
+.tweet-cache
+_plugins/twitter.rb
