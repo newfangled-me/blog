@@ -1,6 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    addressable (2.3.6)
+    buftok (0.2.0)
     classifier (1.3.3)
       fast-stemmer (>= 1.0.0)
     coderay (1.0.9)
@@ -8,8 +10,14 @@ GEM
     commander (4.1.4)
       highline (~> 1.6.11)
     directory_watcher (1.4.1)
+    equalizer (0.0.9)
+    faraday (0.9.0)
+      multipart-post (>= 1.2, < 3)
     fast-stemmer (1.0.2)
     highline (1.6.19)
+    http (0.5.0)
+      http_parser.rb
+    http_parser.rb (0.6.0)
     jekyll (1.1.2)
       classifier (~> 1.3)
       colorator (~> 0.1)
@@ -25,10 +33,15 @@ GEM
     jekyll-sass (1.1.0)
       jekyll (>= 0.10.0)
       sass (>= 3.0.0)
+    json (1.8.1)
     kramdown (1.0.2)
     liquid (2.5.1)
     maruku (0.6.1)
       syntax (>= 1.0.0)
+    memoizable (0.4.2)
+      thread_safe (~> 0.3, >= 0.3.1)
+    multipart-post (2.0.0)
+    naught (1.0.0)
     posix-spawn (0.3.6)
     pygments.rb (0.5.2)
       posix-spawn (~> 0.3.6)
@@ -37,7 +50,20 @@ GEM
     redcarpet (2.2.2)
     safe_yaml (0.7.1)
     sass (3.2.9)
+    simple_oauth (0.2.0)
     syntax (1.0.0)
+    thread_safe (0.3.3)
+    twitter (5.8.0)
+      addressable (~> 2.3)
+      buftok (~> 0.2.0)
+      equalizer (~> 0.0.9)
+      faraday (~> 0.9.0)
+      http (~> 0.5.0)
+      http_parser.rb (~> 0.6.0)
+      json (~> 1.8)
+      memoizable (~> 0.4.0)
+      naught (~> 1.0)
+      simple_oauth (~> 0.2.0)
     yajl-ruby (1.1.0)
 
 PLATFORMS
@@ -49,3 +75,4 @@ DEPENDENCIES
   jekyll-minibundle
   jekyll-sass
   rake
+  twitter
