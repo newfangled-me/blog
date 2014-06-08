@@ -14,7 +14,6 @@ I've been asked many times what I use in terms of hardware and software for phot
 * [Printrbot Simple 2013](http://printrbot.com/shop/printrbot-simple/)
 
 
-
 # Photograhy / Filmmaking
 
 ## Cameras
@@ -22,14 +21,16 @@ I've been asked many times what I use in terms of hardware and software for phot
 * [Canon EOS 5D mk III](http://www.amazon.co.uk/gp/product/B007FGYZFI/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B007FGYZFI&linkCode=as2&tag=newfme-21) (with Magic Lantern)
 * [Canon EOS 600D](http://www.amazon.co.uk/gp/product/B004MPQXZ0/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B004MPQXZ0&linkCode=as2&tag=newfme-21) (with Magic Lantern)
 * [Canon EOS 300](http://www.ebay.co.uk/sch/i.html?_trksid=p2050601.m570.l1313.TR0.TRC0.Xcanon+eos+300&_nkw=canon+eos+300&_sacat=0&_from=R40)
+* [GoPro Hero 3+ Black Edition](http://www.amazon.co.uk/gp/product/B00F3F0GLU/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B00F3F0GLU&linkCode=as2&tag=newfme-21)
 * [Polaroid P600](http://www.ebay.co.uk/sch/i.html?_odkw=canon+eos+300&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR12.TRC2.A0.Xpolaroid+p600&_nkw=polaroid+p600&_sacat=0)
 
 ## Lenses
 
-* [Canon EF 50mm f/1.4](http://www.amazon.co.uk/gp/product/B00009XVCZ/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B00009XVCZ&linkCode=as2&tag=newfme-21)
-* [Sigma EF 20-40mm f/2.8](http://www.ebay.co.uk/sch/i.html?_odkw=polaroid+p600&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.Xsigma+20-40mm+2.8&_nkw=sigma+20-40mm+2.8&_sacat=0)
+* [Canon EF 50mm f/1.4 USM](http://www.amazon.co.uk/gp/product/B00009XVCZ/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B00009XVCZ&linkCode=as2&tag=newfme-21)
+* [Canon EF 85mm f/1.8 USM](http://www.amazon.co.uk/gp/product/B00005NPOB/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B00005NPOB&linkCode=as2&tag=newfme-21)
 * [Sigma EF 10-20mm f/4-5.6](http://www.amazon.co.uk/gp/product/B002D2VS9U/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B002D2VS9U&linkCode=as2&tag=newfme-21)
-* [Sigma EF 70-300 f/4-5.6](http://www.amazon.co.uk/gp/product/B000AM7CJ0/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B000AM7CJ0&linkCode=as2&tag=newfme-21)
+* [Sigma EF 20-40mm f/2.8](http://www.ebay.co.uk/sch/i.html?_odkw=polaroid+p600&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.Xsigma+20-40mm+2.8&_nkw=sigma+20-40mm+2.8&_sacat=0)
+* [Sigma EF 70-300mm f/4-5.6](http://www.amazon.co.uk/gp/product/B000AM7CJ0/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B000AM7CJ0&linkCode=as2&tag=newfme-21)
 * [Hanimex m42 28mm f/2.8](http://www.ebay.co.uk/sch/i.html?_trksid=p2050601.m570.l1313.TR10.TRC2.A0.Xhanimex+28mm&_nkw=hanimex+28mm&_sacat=0&_from=R40)
 
 ## Sound
@@ -60,6 +61,7 @@ I've been asked many times what I use in terms of hardware and software for phot
 ### Storage
 
 * [Komputerbay 64GB 1000x CF Cards](http://www.amazon.co.uk/gp/product/B009JCL55Y/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B009JCL55Y&linkCode=as2&tag=newfme-21) (x2)
+* [SanDisk Extreme 64GB microSD Cards](http://www.amazon.co.uk/gp/product/B0084DWD4Q/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B0084DWD4Q&linkCode=as2&tag=newfme-21) (x3)
 * [SanDisk Extreme 32GB SD Cards](http://www.amazon.co.uk/gp/product/B004Q3C98S/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B004Q3C98S&linkCode=as2&tag=newfme-21) (x2)
 * [SanDisk Extreme 16GB SD Cards](http://www.amazon.co.uk/gp/product/B00422J0CG/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B00422J0CG&linkCode=as2&tag=newfme-21) (x2)
 * [Seagate 320GB 2.5" HDD](http://www.amazon.co.uk/gp/product/B002JIMYHI/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B002JIMYHI&linkCode=as2&tag=newfme-21) (x2)
@@ -87,7 +89,7 @@ I've been asked many times what I use in terms of hardware and software for phot
 
 * [Apple MacBook Pro Retina 13" (Late 2012)](http://www.amazon.co.uk/gp/product/B00G5BFJJ0/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B00G5BFJJ0&linkCode=as2&tag=newfme-21)
 * [Apple iPhone 5](http://www.amazon.co.uk/gp/product/B009EDXHLI/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B009EDXHLI&linkCode=as2&tag=newfme-21)
-* [BERGCloud Little Printer](http://bergcloud.com/littleprinter/)
+* [BERGCloud Little Printer](http://littleprinter.com)
 * [Acer 24" LED Monitor](http://www.amazon.co.uk/gp/product/B005QVZ79C/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B005QVZ79C&linkCode=as2&tag=newfme-21)
 * [Arcam Alpha 3 Amplifier](http://www.ebay.co.uk/sch/i.html?_odkw=arcam+alpha+amplifier&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.Xarcam+alpha+3&_nkw=arcam+alpha+3&_sacat=0)
 * [Bowers & Wilkins DM610i Speakers](http://www.ebay.co.uk/sch/i.html?_odkw=bowers+wilkins+610i&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.Xbowers+wilkins+dm610&_nkw=bowers+wilkins+dm610&_sacat=0)
